@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Rupom 👋 💻 Focusing on MERN Stack Developer | Frontend Specialist 📍 Bangladesh | 📧 rupombadhan111@gmail.com.com</h1>
+<h1 align="center">Hi 👋, I'm I'm Rupom </h1> <br></br> 👋 💻 Focusing on MERN Stack Developer | Frontend Specialist 📍 Bangladesh | <br></br>  📧 rupombadhan111@gmail.com.com</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupompb&label=Profile%20views&color=0e75b6&style=flat" alt="rupompb" /> </p>
