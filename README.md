@@ -1,8 +1,8 @@
 
 ###
 
-<div align="center" width="500">
-  <img height="200" src="https://i.ibb.co/gFHVj2Q6/BANNER-FOR-GITHUB.jpg"  />
+<div align="center">
+  <img height="200" width="70%" src="https://i.ibb.co/gFHVj2Q6/BANNER-FOR-GITHUB.jpg"  />
 </div>
 
 ###
