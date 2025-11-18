@@ -1,7 +1,7 @@
 
 ###
 
-<div align="center">
+<div align="center" width="500">
   <img height="200" src="https://i.ibb.co/gFHVj2Q6/BANNER-FOR-GITHUB.jpg"  />
 </div>
 
@@ -72,6 +72,13 @@ I enjoy learning new concepts, writing clean code, and creating meaningful web e
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RupomPB.RupomPB&"  />
+</div>
+
+###
+
 ## Installation
 
 
