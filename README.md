@@ -10,9 +10,6 @@ I'm a frontend developer specializing in React and Tailwind CSS.
 I’m currently learning backend development with Node.js, Express, and MongoDB to complete my MERN stack journey.  
 I enjoy learning new concepts, writing clean code, and creating meaningful web experiences.
 
-#  I'm Rupom! 👋
-
-
 
 
 ### 🔹 Current Activities  
