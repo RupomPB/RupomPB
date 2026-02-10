@@ -95,19 +95,3 @@ I enjoy learning new concepts, writing clean code, and creating meaningful web e
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RupomPB.RupomPB&"  />
 </div>
 
-###
-
-## Installation
-
-
-### 🛠️ Run Locally
-
-#### For Client:
-
-npm install  
-npm run dev
-
-#### For Server:
-
-npm install  
-nodemon index.js
