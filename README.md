@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="70%" src="https://i.ibb.co/gFHVj2Q6/BANNER-FOR-GITHUB.jpg"  />
+  <img height="200" width="70%" src="[https://i.ibb.co/gFHVj2Q6/BANNER-FOR-GITHUB.jpg](https://i.ibb.co.com/qYzzk83Q/Banner-Rupom.png)"  />
 </div>
 
 ###
